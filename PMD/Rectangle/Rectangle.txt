@@ -1,0 +1,3 @@
+En esta clase aprendimos a crear archivos de cabecera y utilizar datos complejos para crear
+las funciones correspondientes del programa, fue muy sencillo acabar este ejercicio, 
+me base en el ejercicio resuelto en clase y sinceramente siento que es muy sencillo.

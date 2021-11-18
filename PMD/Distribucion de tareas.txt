@@ -1,0 +1,17 @@
+Planificación de tareas
+
+¿qué es la distribución estática de tareas?
+En un programa implementado con hilos la distribución de tareas
+no siempre es la misma, la distribución estatica es aquella en
+la cual las tareas determinadas para los hilos ya estan 
+establecidas, es decir, cada hilo tiene una secuencia a resolver.
+
+¿qué es la distribución dinámica de tareas?
+semejante a la distribucion estatica, la diferencia es que los hilos
+no tienen una secuencia, toman la tarea siguiente segun su tiempo de 
+terminacion volviendo mas eficiente y rapido el programa.
+
+¿por qué el ejemplo que de los números primos con balanceo de carga que se hizo
+ en la sesión de clases es con distribución estática?
+Cada hilo contaba con una secuencia establecida, ya que tenian
+una tarea especifica.
